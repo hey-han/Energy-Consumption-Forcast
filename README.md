@@ -6,6 +6,4 @@ medium article link: https://medium.com/@christang_1023/time-series-forecasting-
 
 programming language: Python
 
-label: (1)Pytorch
-
 software: Jupter Nobook/Google Colab
