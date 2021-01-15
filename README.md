@@ -1,4 +1,4 @@
-# energy-consumption-forcast
+# Energy-Consumption-Forcast
 ## Time Series Forecast on Energy Consumption with Deep Feedforward Network
 Energy consumption prediction of buildings is important not only for building owners but also for utility enterprises to optimize the energy supply structure and improve energy efficiency. Given only weather information nearby, we built a model to forecast the energy consumption of the building.
 
